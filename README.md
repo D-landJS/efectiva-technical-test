@@ -21,7 +21,9 @@ Add-Migration InitialCreate
 Update-Database
 
 ### Nextjs
-
-Para ejecutar React es npm run dev.
+Primero instalar dependencias:
+npm run i
+Para levantar el proyecto:
+npm run dev
 
 
