@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0A7Za/kFUg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INTEL\\Desktop\\server\\ProductCatalog\\ProductCatalog.Application\\ProductCatalog.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INTEL\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.1\\microsoft.aspnetcore.http.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.1\\microsoft.aspnetcore.http.features.2.1.1.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.2.1\\microsoft.identitymodel.abstractions.8.2.1.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.2.1\\microsoft.identitymodel.jsonwebtokens.8.2.1.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\microsoft.identitymodel.logging\\8.2.1\\microsoft.identitymodel.logging.8.2.1.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.2.1\\microsoft.identitymodel.tokens.8.2.1.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.2.1\\system.identitymodel.tokens.jwt.8.2.1.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\INTEL\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"System.Text.Encodings.Web\" 4.5.0 tiene una vulnerabilidad de gravedad crítica conocida, https://github.com/advisories/GHSA-ghhp-997w-qr28",
+      "libraryId": "System.Text.Encodings.Web",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
