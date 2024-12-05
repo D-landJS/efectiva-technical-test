@@ -27,4 +27,6 @@ Primero instalar dependencias:
 Para levantar el proyecto:
 - npm run dev
 
+- Actualizar la página si no muestra el login cuando se levanta el proyecto
+
 
