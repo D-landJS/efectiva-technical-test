@@ -23,6 +23,8 @@ Update-Database
 ### Nextjs
 Primero instalar dependencias:
 npm run i
+
+-------------
 Para levantar el proyecto:
 npm run dev
 
