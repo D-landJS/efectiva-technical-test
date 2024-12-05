@@ -24,7 +24,6 @@ Las migraciones se ejecutan en Infrastructure con estas instrucciones:
 Primero instalar dependencias:
 - npm run i
 
--------------
 Para levantar el proyecto:
 - npm run dev
 
